@@ -1,0 +1,50 @@
+nav{
+
+}
+
+.navbar-toggler-icon{
+    height: 35px;	
+    width: 35px;	
+    background-color: #5CB8A3;
+    background-image: url("images/search.svg");
+    background-repeat: no-repeat;
+    background-position: 6px;
+    
+}
+
+.logo{
+    width: 40%;
+}
+
+
+.bg-button{
+    height: 38px;	
+    width: 35px;	
+    box-shadow: 6px;
+    background-color: #5CB8A3;
+    background-image: url("images/search.svg");
+    background-repeat: no-repeat;
+    background-position: 7px;
+}
+
+
+
+
+
+
+
+.rectangle-18 {	
+      height: 25px;
+      width: 100%;
+      background-color: #EE988B;
+}
+
+.promociones-de-invi{
+    height: 16px;	
+    width: 309px;	
+    color: #FFFFFF;	
+    font-family: "Brandon Grotesque";	
+    font-size: 12px;	
+    line-height: 14px;	
+    text-align: center;
+}
